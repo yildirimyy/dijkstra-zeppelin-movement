@@ -1,0 +1,7 @@
+en iyi yolcu sayisi : 10
+yol: 64->43->26->6
+maliyet km : 357.00026886373905
+maliyet tl : 3570.0026886373903
+yolcu fiyati : 535.5004032956085
+gelir : 5355.004032956085
+kar : 1785.001344318695

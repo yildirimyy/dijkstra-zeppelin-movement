@@ -1,0 +1,5 @@
+yolcu sayisi : 50	  yol: 	  maliyet km : 1.7976931348623157E308	  maliyet tl : Infinity	 yolcu fiyati : Infinity	 gelir : Infinity	  kar : NaN
+yolcu sayisi : 20	  yol: 64->3->42->6	  maliyet km : 526.0001694460991	  maliyet tl : 5260.001694460991	 yolcu fiyati : 394.5001270845743	 gelir : 7890.002541691485	  kar : 2630.0008472304944
+yolcu sayisi : 40	  yol: 	  maliyet km : 1.7976931348623157E308	  maliyet tl : Infinity	 yolcu fiyati : Infinity	 gelir : Infinity	  kar : NaN
+yolcu sayisi : 10	  yol: 64->43->26->6	  maliyet km : 357.00026886373905	  maliyet tl : 3570.0026886373903	 yolcu fiyati : 535.5004032956085	 gelir : 5355.004032956085	  kar : 1785.001344318695
+yolcu sayisi : 30	  yol: 64->43->3->42->6	  maliyet km : 611.0001228300428	  maliyet tl : 6110.001228300428	 yolcu fiyati : 305.5000614150214	 gelir : 9165.001842450642	  kar : 3055.0006141502136

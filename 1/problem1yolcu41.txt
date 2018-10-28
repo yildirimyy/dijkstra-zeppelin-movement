@@ -1,0 +1,82 @@
+id : 0 komsular(hipo km - aci) : 
+id : 1 komsular(hipo km - aci) :  33(65.00000037692308 - 6)   31(113.00001812389236 - 30)  
+id : 2 komsular(hipo km - aci) :  21(172.00000211918604 - 9)  
+id : 3 komsular(hipo km - aci) :  32(110.0000096181814 - 23)   42(195.0000003102564 - 3)   43(89.00001638202096 - 31)   15(150.00000800333314 - 18)  
+id : 4 komsular(hipo km - aci) :  65(140.0000342999958 - 35)   13(168.00000014583333 - 2)  
+id : 5 komsular(hipo km - aci) : 
+id : 6 komsular(hipo km - aci) :  26(200.0000087024998 - 16)   42(231.00006109090103 - 36)  
+id : 7 komsular(hipo km - aci) :  33(350.00000276571427 - 7)  
+id : 8 komsular(hipo km - aci) : 
+id : 9 komsular(hipo km - aci) :  45(92.00000091847826 - 8)  
+id : 10 komsular(hipo km - aci) :  16(122.00003544671615 - 37)   45(121.00001799999866 - 29)  
+id : 11 komsular(hipo km - aci) : 
+id : 12 komsular(hipo km - aci) :  24(133.00001221428516 - 23)  
+id : 13 komsular(hipo km - aci) :  65(112.0000369687439 - 39)   4(168.00000014583333 - 2)  
+id : 14 komsular(hipo km - aci) :  18(172.00000035174418 - 4)   26(126.00001200396768 - 24)  
+id : 15 komsular(hipo km - aci) :  3(150.00000800333314 - 18)  
+id : 16 komsular(hipo km - aci) :  10(122.00003544671615 - 37)  
+id : 17 komsular(hipo km - aci) :  22(170.00000447352934 - 13)   59(131.00000110305342 - 7)  
+id : 18 komsular(hipo km - aci) :  19(113.00003745132123 - 39)   71(84.00000152380952 - 11)   14(172.00000035174418 - 4)  
+id : 19 komsular(hipo km - aci) :  18(113.00003745132123 - 39)   37(136.00000023529412 - 3)   71(145.00001991724002 - 28)  
+id : 20 komsular(hipo km - aci) : 
+id : 21 komsular(hipo km - aci) :  2(172.00000211918604 - 9)  
+id : 22 komsular(hipo km - aci) :  17(170.00000447352934 - 13)   59(111.00000218018016 - 11)  
+id : 23 komsular(hipo km - aci) :  44(88.00002864204079 - 39)  
+id : 24 komsular(hipo km - aci) :  58(212.00002219103658 - 25)   12(133.00001221428516 - 23)   29(77.0000114545446 - 29)  
+id : 25 komsular(hipo km - aci) :  75(181.00004247513314 - 34)  
+id : 26 komsular(hipo km - aci) :  6(200.0000087024998 - 16)   14(126.00001200396768 - 24)  
+id : 27 komsular(hipo km - aci) : 
+id : 28 komsular(hipo km - aci) :  52(44.00000137499998 - 14)   61(112.00000216071426 - 11)  
+id : 29 komsular(hipo km - aci) :  24(77.0000114545446 - 29)  
+id : 30 komsular(hipo km - aci) :  65(105.00000373333327 - 15)  
+id : 31 komsular(hipo km - aci) :  80(92.00000556521722 - 19)   1(113.00001812389236 - 30)  
+id : 32 komsular(hipo km - aci) :  3(110.0000096181814 - 23)   42(170.00000360294115 - 12)  
+id : 33 komsular(hipo km - aci) :  1(65.00000037692308 - 6)   7(350.00000276571427 - 7)  
+id : 34 komsular(hipo km - aci) :  41(78.00000282692302 - 15)   59(123.00000003658536 - 1)  
+id : 35 komsular(hipo km - aci) : 
+id : 36 komsular(hipo km - aci) :  75(64.00001444531087 - 34)  
+id : 37 komsular(hipo km - aci) :  19(136.00000023529412 - 3)  
+id : 38 komsular(hipo km - aci) : 
+id : 39 komsular(hipo km - aci) : 
+id : 40 komsular(hipo km - aci) : 
+id : 41 komsular(hipo km - aci) :  34(78.00000282692302 - 15)   54(50.00001368999813 - 37)   77(57.00000014035088 - 4)  
+id : 42 komsular(hipo km - aci) :  32(170.00000360294115 - 12)   3(195.0000003102564 - 3)   6(231.00006109090103 - 36)   70(101.00000792079177 - 22)  
+id : 43 komsular(hipo km - aci) :  3(89.00001638202096 - 31)  
+id : 44 komsular(hipo km - aci) :  23(88.00002864204079 - 39)  
+id : 45 komsular(hipo km - aci) :  9(92.00000091847826 - 8)   10(121.00001799999866 - 29)  
+id : 46 komsular(hipo km - aci) : 
+id : 47 komsular(hipo km - aci) :  56(128.00001016015585 - 22)  
+id : 48 komsular(hipo km - aci) : 
+id : 49 komsular(hipo km - aci) : 
+id : 50 komsular(hipo km - aci) :  51(81.00001088888816 - 27)   68(67.0000071716414 - 25)  
+id : 51 komsular(hipo km - aci) :  50(81.00001088888816 - 27)   68(72.00000084027778 - 9)  
+id : 52 komsular(hipo km - aci) :  55(134.00000083955223 - 6)   28(44.00000137499998 - 14)  
+id : 53 komsular(hipo km - aci) :  61(68.00000459558808 - 20)  
+id : 54 komsular(hipo km - aci) :  41(50.00001368999813 - 37)  
+id : 55 komsular(hipo km - aci) :  52(134.00000083955223 - 6)   57(127.00000113779527 - 8)  
+id : 56 komsular(hipo km - aci) :  47(128.00001016015585 - 22)  
+id : 57 komsular(hipo km - aci) :  55(127.00000113779527 - 8)  
+id : 58 komsular(hipo km - aci) :  66(188.00000004255318 - 1)   24(212.00002219103658 - 25)  
+id : 59 komsular(hipo km - aci) :  17(131.00000110305342 - 7)   34(123.00000003658536 - 1)   22(111.00000218018016 - 11)  
+id : 60 komsular(hipo km - aci) : 
+id : 61 komsular(hipo km - aci) :  53(68.00000459558808 - 20)   28(112.00000216071426 - 11)  
+id : 62 komsular(hipo km - aci) : 
+id : 63 komsular(hipo km - aci) : 
+id : 64 komsular(hipo km - aci) : 
+id : 65 komsular(hipo km - aci) :  4(140.0000342999958 - 35)   13(112.0000369687439 - 39)   30(105.00000373333327 - 15)  
+id : 66 komsular(hipo km - aci) :  58(188.00000004255318 - 1)  
+id : 67 komsular(hipo km - aci) :  74(57.000000035087716 - 2)  
+id : 68 komsular(hipo km - aci) :  50(67.0000071716414 - 25)   51(72.00000084027778 - 9)  
+id : 69 komsular(hipo km - aci) : 
+id : 70 komsular(hipo km - aci) :  42(101.00000792079177 - 22)  
+id : 71 komsular(hipo km - aci) :  18(84.00000152380952 - 11)   19(145.00001991724002 - 28)  
+id : 72 komsular(hipo km - aci) : 
+id : 73 komsular(hipo km - aci) : 
+id : 74 komsular(hipo km - aci) :  67(57.000000035087716 - 2)  
+id : 75 komsular(hipo km - aci) :  36(64.00001444531087 - 34)   25(181.00004247513314 - 34)  
+id : 76 komsular(hipo km - aci) : 
+id : 77 komsular(hipo km - aci) :  41(57.00000014035088 - 4)  
+id : 78 komsular(hipo km - aci) : 
+id : 79 komsular(hipo km - aci) : 
+id : 80 komsular(hipo km - aci) :  31(92.00000556521722 - 19)  
+id : 81 komsular(hipo km - aci) : 
